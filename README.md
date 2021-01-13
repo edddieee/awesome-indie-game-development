@@ -8,6 +8,7 @@ A collection of awesome things related to Free Game Development.
 - [Texture and Material](#texture-and-material)
 - [Audio](#audio)
 - [2D Softwares](#2d-softwares)
+- [Indie Game Devlogs](#indie-game-devlogs)
 
 ---
 
@@ -53,4 +54,22 @@ A collection of awesome things related to Free Game Development.
 - [GIMP](https://www.gimp.org/) - The Free & Open Source Image Editor.
 - [Krita](https://krita.org/en/) - Krita is a professional FREE and open source painting program.
 - [Inkscape Project](https://inkscape.org/) - Inkscape is professional quality vector graphics software
+
+### Indie Game Devlogs
+
+#### Unity Projects
+- [Astoaria](https://www.youtube.com/channel/UCdb9bWTIVqHDIcs0oGw__fw)
+- [Codeer](https://www.youtube.com/channel/UCtUeziXLa_x3vvdzUinqE8w)
+- [Lumbermill](https://www.youtube.com/channel/UCYU6BO_VdYnzeQEOS_kSBWA)
+- [Patch Quest](https://www.youtube.com/channel/UCxdyC7_ZoTzeJqIZHsmAy9Q)
+- [The first Tree](https://www.youtube.com/watch?v=Y3Rs1z7it5M)
+- [Tunic](https://www.youtube.com/user/dice001)
+
+#### Unreal Engine Projects
+- [Lucen](https://www.youtube.com/channel/UCMCjGkbqKVkjJN2sVWocz0w)
+- [Punch a Bunch](https://www.youtube.com/c/Pontypants/featured)
+- [Swords 'n Magic](https://www.youtube.com/channel/UCqRbKsCslbkBawq_I1OrFbA)
+
+#### Godot Projects
+- [Dauphin](https://www.youtube.com/c/DevDuck/videos)
 
