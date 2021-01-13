@@ -6,6 +6,7 @@ A collection of awesome things related to Free Game Development.
 - [3D Modeling](#3d-modeling)
   - [Character Creators](#character-creators)
   - [Animation Tools](#animation-tools)
+- [Texture and Material](#texture-and-material)
 
 ---
 
@@ -29,3 +30,9 @@ A collection of awesome things related to Free Game Development.
 #### Animation Tools
 
 - [Mixamo](https://www.mixamo.com/#/) - A library of thousands of full-body character animations.
+
+### Texture and Material
+
+- [Quixel Mixer](https://quixel.com/mixer) - Texture and Material Creator Tool
+- [CC0](https://cc0textures.com/) - CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. This means that you are free to use and even redistribute them in any of your projects - including commercial use!
+- [Quixel Megascans](https://quixel.com/megascans/) - A Massive scan library of materials. (**UNLIMITED ACCESS only FOR Unreal Engine 4 Projects**  )
