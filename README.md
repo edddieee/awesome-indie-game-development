@@ -42,6 +42,7 @@ A collection of awesome things related to Free Game Development.
 - [Armor Paint](https://armorpaint.org/) - ArmorPaint is a stand-alone software designed for physically-based texture painting.
 - [CC0](https://cc0textures.com/) - CC0 Textures is a library of high quality PBR materials for 3D rendering and game design licensed under the Creative Commons CC0 License. This means that you are free to use and even redistribute them in any of your projects - including commercial use!
 - [Quixel Megascans](https://quixel.com/megascans/) - A Massive scan library of materials. (**UNLIMITED ACCESS only FOR Unreal Engine 4 Projects**)
+- [Materialize](http://www.boundingboxsoftware.com/materialize/) - Materialize is a stand alone tool for creating materials for use in games from images.
 
 
 ### Audio
