@@ -72,5 +72,8 @@ A collection of awesome things related to Free Game Development.
 - [Swords 'n Magic](https://www.youtube.com/channel/UCqRbKsCslbkBawq_I1OrFbA)
 
 #### Godot Projects
-- [Dauphin](https://www.youtube.com/c/DevDuck/videos)
+- [Dauphin](https://www.youtube.com/c/DevDuck/videos) by [@_devduck](https://twitter.com/_devduck)
+- [Sandfire](https://www.youtube.com/channel/UCbf7bKRX6aTr1Tix1nTJo1Q/videos) by [@kmitt91](https://twitter.com/kmitt91)
+- [Hive Time](https://www.youtube.com/user/twolofbees) by [@ValiantCheese](https://twitter.com/ValiantCheese)
+- [Moonshot - The Great Espionage](https://store.steampowered.com/news/app/1492610) by [@NimbleBeasts](https://twitter.com/NimbleBeasts)
 
