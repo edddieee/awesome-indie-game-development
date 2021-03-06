@@ -27,6 +27,7 @@ A collection of awesome things related to Free Game Development.
 - [VRoid Studio](https://vroid.com/en/studio/) - VRoid Studio is an application to create 3D models of humanoid avatars (characters).
 - [Instant Meshes](https://github.com/wjakob/instant-meshes) - This repository contains the interactive meshing software developed as part of the publication.
 - [Meshroom](https://alicevision.org/#meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
+- [Daz 3D](https://www.daz3d.com/) - 3D Models, 3D Animation, 3D Software.
 
 #### Animation
 
