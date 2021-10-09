@@ -28,6 +28,8 @@ A collection of awesome things related to Free Game Development.
 - [Instant Meshes](https://github.com/wjakob/instant-meshes) - This repository contains the interactive meshing software developed as part of the publication.
 - [Meshroom](https://alicevision.org/#meshroom) - Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision framework.
 - [Daz 3D](https://www.daz3d.com/) - 3D Models, 3D Animation, 3D Software.
+- [Gaea](https://quadspinner.com/) - 3D terrain generator.
+- [World Machine](https://www.world-machine.com/) - 3D terrain generator (Free for non-comercial use).
 
 #### Animation
 
