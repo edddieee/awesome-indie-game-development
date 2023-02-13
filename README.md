@@ -1,6 +1,6 @@
-### **Awesome Free Game Development**
+### **Awesome Indie Game Development**
 
-A collection of awesome things related to Free Game Development.
+A collection of awesome things related to Indie Game Development.
 
 - [Game Engines](#game-engines)
 - [3D Softwares](#3d-softwares)
