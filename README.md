@@ -80,3 +80,8 @@ A collection of awesome things related to Indie Game Development.
 - [Hive Time](https://www.youtube.com/user/twolofbees) by [@ValiantCheese](https://twitter.com/ValiantCheese)
 - [Moonshot - The Great Espionage](https://store.steampowered.com/news/app/1492610) by [@NimbleBeasts](https://twitter.com/NimbleBeasts)
 
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon (paint-based hide-and-seek Steam game). 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub awesome list: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
