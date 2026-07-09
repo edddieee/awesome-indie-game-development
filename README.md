@@ -60,6 +60,9 @@ A collection of awesome things related to Indie Game Development.
 - [Inkscape Project](https://inkscape.org/) - Inkscape is professional quality vector graphics software
 
 ### Indie Game Devlogs
+#### Companion Sites (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek game Meccha Chameleon.
 
 #### Unity Projects
 - [Astoaria](https://www.youtube.com/channel/UCdb9bWTIVqHDIcs0oGw__fw)
