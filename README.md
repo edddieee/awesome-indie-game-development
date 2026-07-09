@@ -80,3 +80,6 @@ A collection of awesome things related to Indie Game Development.
 - [Hive Time](https://www.youtube.com/user/twolofbees) by [@ValiantCheese](https://twitter.com/ValiantCheese)
 - [Moonshot - The Great Espionage](https://store.steampowered.com/news/app/1492610) by [@NimbleBeasts](https://twitter.com/NimbleBeasts)
 
+## Companion Resources (Fan-Maintained Pages)
+
+- [Meccha Chameleon Atlas (Fan-Intro Page)](https://zlc000190.github.io/meccha-chameleon-atlas-pages/) — Fan-maintained companion intro page for the paint-based hide-and-seek game Meccha Chameleon. The full community-maintained atlas lives at https://mecchachameleon.art/. Unofficial, not affiliated with the developer.
