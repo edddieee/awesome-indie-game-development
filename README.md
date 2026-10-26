@@ -79,4 +79,5 @@ A collection of awesome things related to Indie Game Development.
 - [Sandfire](https://www.youtube.com/channel/UCbf7bKRX6aTr1Tix1nTJo1Q/videos) by [@kmitt91](https://twitter.com/kmitt91)
 - [Hive Time](https://www.youtube.com/user/twolofbees) by [@ValiantCheese](https://twitter.com/ValiantCheese)
 - [Moonshot - The Great Espionage](https://store.steampowered.com/news/app/1492610) by [@NimbleBeasts](https://twitter.com/NimbleBeasts)
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
